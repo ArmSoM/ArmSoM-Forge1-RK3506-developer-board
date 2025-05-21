@@ -1,12 +1,13 @@
 # ArmSoM Forge1 RK3506J Triple-Core Development Board  
 **Open-Source Industrial-Grade Embedded Solution | Dual Ethernet + CAN FD + MIPI Display | [Official Site](https://www.armsom.org/armsom-forge1)**
 
-![Forge1 Development Board](images/forge1-board-front.jpg)
-
 ## 🚀 Solving the "Triple Dilemma" of Performance, Cost & Efficiency
 Developers in smart voice, industrial control, and multimedia interaction face three critical challenges: insufficient I/O forcing peripheral stacking, redundant resources inflating costs, and closed ecosystems prolonging development cycles.  
 
 **ArmSoM Forge1** emerges as the ultimate solution - powered by RockChip RK3506J's triple Cortex-A7 cores, combining open-source DNA, full-stack interfaces, and unmatched scalability for makers and enterprises.
+
+
+![Forge1 Development Board](./ArmSoM-Forge1-development-board.jpg)
 
 ## 🔥 Core Highlights: Power × Open Ecosystem × Cost Revolution
 ### 1. Triple-Core Performance & Efficiency
@@ -30,6 +31,8 @@ Developers in smart voice, industrial control, and multimedia interaction face t
   Type-C flashing | MicroSD boot | UART debugging  
   "From unboxing to first code execution in one coffee break!"
 
+![ArmSoM-Forge1-SBC](./ArmSoM-Forge1-SBC.jpg)
+
 ## 🛠️ Application Scenarios
 ### From Maker Labs to Mass Production
 - **Smart Voice Terminal**:  
@@ -40,6 +43,8 @@ Developers in smart voice, industrial control, and multimedia interaction face t
   MIPI + 2D acceleration powers retail kiosks & smart home UIs
 - **Education Platform**:  
   Raspberry Pi compatibility + rich tutorials = Perfect for STEM education
+
+![ArmSoM-Forge1-dsiplay](./ArmSoM-Forge1-dsiplay.jpg)
 
 ## 🌍 Developer Ecosystem
 - **Full Hardware Transparency**:  
@@ -52,6 +57,7 @@ Developers in smart voice, industrial control, and multimedia interaction face t
 ## 🚀 Take Action Now
 - **Limited-Time Offer**:  
   [Official Store]([https://armsom.org/forge1](https://www.armsom.org/product-page/forge1)) | [Taobao]([https://taobao.com/xxx](https://item.taobao.com/item.htm?id=895906881225)) 
+![ArmSoM-Forge1-rk3506j](./ArmSoM-Forge1-rk3506j.jpg)
 - **Free Development Pack**:  
   Download SDK/images/hardware files at [ArmSoM Docs](https://docs.armsom.org/armsom-forge1)
 
